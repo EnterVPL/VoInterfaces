@@ -1,0 +1,20 @@
+{
+    "name": "enterv/vo-interfaces",
+    "description": "Simple Value Object interfaces",
+    "type": "library",
+    "require": {
+        "php": ">=8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Enterv\\VoInterfaces\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EnterV",
+            "email": "kontakt@enterv.pl"
+        }
+    ]
+}
