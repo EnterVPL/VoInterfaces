@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EnterV\VoInterfaces;
+namespace EnterV\Voi;
 
 interface NumberVoInterface
 {

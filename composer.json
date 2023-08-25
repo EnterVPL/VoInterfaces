@@ -6,15 +6,15 @@
         "php": ">=8.1"
     },
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Enterv\\VoInterfaces\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "EnterV",
             "email": "kontakt@enterv.pl"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "EnterV\\Voi\\": "src/"
+        }
+    }
 }
