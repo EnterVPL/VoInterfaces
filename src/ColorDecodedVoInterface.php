@@ -1,8 +1,8 @@
 <?php
 
-namespace EnterV\VoInterfaces;
-
 declare(strict_types=1);
+
+namespace EnterV\VoInterfaces;
 
 interface ColorDecodedVoInterface
 {
