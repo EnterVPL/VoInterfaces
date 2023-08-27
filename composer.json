@@ -16,5 +16,8 @@
         "psr-4": {
             "EnterV\\Voi\\": "src/"
         }
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.23"
     }
 }
