@@ -7,5 +7,6 @@ namespace EnterV\Voi;
 interface StringVoInterface extends SacralTypeVoInterface
 {
     public function value(): string;
-    public function concat(string|StringVoInterface $value): StringVoInterface;
+
+    public function concat(string|self $value): self;
 }
